@@ -1,4 +1,4 @@
-﻿<#
+﻿#
 .SYNOPSIS
     Displays main hardware component information.
 .DESCRIPTION
