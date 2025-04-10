@@ -2,9 +2,9 @@
 .SYNOPSIS  
     Displays main hardware component information.  
 .DESCRIPTION  
-    Get-HardwareCustom gathers and displays information about the CPU, GPU, RAM and Disk drives in the system.  
-    Output can be customized based on the specified detail level: Basic, Detailed, NameOnly.   
-    Optional switch parameter allows to retrieve a more accurate VRAM number, collected using seperate functions, the default option may display an inaccurate VRAM number due to how the CimInstance command works  
+    Get-HardwareCustom gathers and displays information about the CPU, GPU, RAM and Disk drives in the system.<br>
+    Output can be customized based on the specified detail level: Basic, Detailed, NameOnly.   <br>
+    Optional switch parameter allows to retrieve a more accurate VRAM number, collected using seperate functions, the default option may display an inaccurate VRAM number due to how the CimInstance command works  <br>
 .PARAMETER DetailLevel
     Specifies the level of detail for the output. Options are:
     - Basic: Displays essential information.
