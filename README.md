@@ -1,6 +1,6 @@
-<#
+<#  
 .SYNOPSIS
-    Displays main hardware component information.<br>
+    Displays main hardware component information.
 .DESCRIPTION
     Get-HardwareCustom gathers and displays information about the CPU, GPU, RAM and Disk drives in the system.
     Output can be customized based on the specified detail level: Basic, Detailed, NameOnly. 
